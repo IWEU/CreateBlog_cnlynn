@@ -1,2 +1,2 @@
 # CreateBlog_cnlynn
-Try create static a blog in github.Blog address：cnlynn.com
+Try to create a static blog in github.Blog address：cnlynn.com
